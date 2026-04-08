@@ -2,6 +2,8 @@
 
 A state-of-the-art, aesthetically engineered web calendar focused on absolute productivity and dynamic immersion. Built with Next.js 15, Framer Motion, and Tailwind CSS v4.
 
+> **Live Demo:** [https://tuf-calander-app.netlify.app/](https://tuf-calander-app.netlify.app/)
+
 ## ✨ Features
 
 - **Dynamic Monthly Theming Engine**: The heart of the application. The entire UI—from the ultra-deep ambient sphere glows, to the primary structural typography (fonts), to the selection hover highlights—seamlessly cross-fades into 12 distinct, emotionally-mapped color palettes based strictly on the current active month. 
@@ -36,3 +38,7 @@ Feel free to try clicking the Next/Prev months organically to witness the typogr
 
 ## 📝 Usage Note
 *Because the project runs entirely on the Client payload with `localStorage` bridging, your notes will persist as long as your browser's local cache remains active.*
+
+## 🔗 Links
+
+- **Live Application:** [https://tuf-calander-app.netlify.app/](https://tuf-calander-app.netlify.app/)
